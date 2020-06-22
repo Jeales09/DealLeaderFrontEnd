@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DealLeaderApp';
+
+url="./assets/3.JPG";
+url2="./assets/4.JPG";
 }
+
